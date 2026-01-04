@@ -49,19 +49,13 @@
 ### 📊 <span style="color:#58A6FF">GitHub Analytics</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zainiazhr14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zainiazhr14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainiazhr14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainiazhr14&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainiazhr14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" height="150" alt="activity graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zainiazhr14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
