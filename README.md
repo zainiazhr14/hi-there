@@ -30,11 +30,9 @@
 
   <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,nestjs,express&theme=dark" alt="Frameworks" />
   
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/ElysiaJS-FE9258?style=flat-square&logo=elysia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hapi.js-FFA000?style=flat-square&logo=hapijs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=elysia,python,django,flask,lua,rust&theme=dark" alt="Frameworks" />
   
   <br/><br/>
 
@@ -54,8 +52,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainiazhr14&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" height="150" alt="activity graph" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zainiazhr14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
